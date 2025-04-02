@@ -10,11 +10,11 @@
     </style>
 </head>
 <body>
-    <img src="1.jpg" alt="Sushi Toshi menu">
-    <img src="2.jpg" alt="Sushi Toshi menu">
-    <img src="3.jpg" alt="Sushi Toshi menu">
-    <img src="4.jpg" alt="Sushi Toshi menu">
-    <img src="5.jpg" alt="Sushi Toshi menu">
+    <img src="1.JPG" alt="Sushi Toshi menu">
+    <img src="2.JPG" alt="Sushi Toshi menu">
+    <img src="3.JPG" alt="Sushi Toshi menu">
+    <img src="4.JPG" alt="Sushi Toshi menu">
+    <img src="5.JPG" alt="Sushi Toshi menu">
 </body>
 </html>
   
