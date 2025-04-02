@@ -1,20 +1,17 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sushi Toshi</title>
-    <style>
-      body { margin: 0; padding: 0; flex; flex-wrap: wrap; justify-content: center; }
-      img { width:100%; max-width: 600px; margin-bottom: 5px; }
-    </style>
-</head>
+<p align="center">
+    <img src="logo.png" alt="logo">
+</p>
 <body>
     <img src="1.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Salmon</h2>
     <img src="2.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Tuna</h2>
     <img src="3.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Red Snapper</h2>
     <img src="4.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Sweet Shrimp</h2>
     <img src="5.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Surf Clam</h2>
 </body>
 </html>
   
