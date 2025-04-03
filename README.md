@@ -26,8 +26,10 @@
     <h2 align="center">Butter Fish</h2>
     <img src="10.JPG" alt="Sushi Toshi menu">
     <h2 align="center">Hamachi (Limit 3pcs)</h2>
-    <img src="11.JPG" alt="Sushi Toshi menu">
-    <h2 align="center">Salmon (Regular/Aburi Shio)</h2>
+    <img src="11A.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Salmon (Regular)</h2>
+    <img src="11B.JPG" alt="Sushi Toshi menu">
+    <h2 align="center">Salmon (Aburi Shio)</h2>
     <img src="12.JPG" alt="Sushi Toshi menu">
     <h2 align="center">Tuna</h2>
     <img src="13.JPG" alt="Sushi Toshi menu">
