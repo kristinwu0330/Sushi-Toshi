@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <h2 align="center"> <img src="logo.png" alt="logo">
-</p>
+</head>
 <body>
     <img src="1.JPG" alt="Sushi Toshi menu">
     <h2 align="center">Salmon</h2>
